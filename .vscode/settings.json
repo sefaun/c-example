@@ -13,6 +13,7 @@
     "string.h": "c",
     "ws2tcpip.h": "c",
     "winsock2.h": "c",
-    "conio.h": "c"
+    "conio.h": "c",
+    "functional": "c"
   },
 }
